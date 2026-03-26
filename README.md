@@ -5,7 +5,7 @@
 
 ## 🎥 Video Explanation
 
-[![Watch the Video Explanation](https://img.shields.io/badge/Watch-Video%20Explanation-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1bj9HHx_JPZF76drkek2qOkaCSMEHT8BL/view?usp=sharing)
+[Watch the Video Explanation] https://drive.google.com/file/d/1bj9HHx_JPZF76drkek2qOkaCSMEHT8BL/view?usp=sharing
 
 ---
 
